@@ -23,25 +23,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-With-Abdul-67&theme=algolia&show_icons=true)
 
-const data = {
-    pronouns: "He" | "Him",
-    codename: "XB3AST",
-    status: "alive",
-    doing: "Forging Web Realms and Crafting Cyber Scripts in Shadows...",
-    code: ["{Python}", "{PHP}", "{Javascript}"],
-    askMeAbout: ["soft dev", "web dev", "cyber sec"],
-    webdev: {
-        frontEnd: {
-            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "JQuery"],
-        },
-        backEnd: {
-            technologies: ["SQL, "PHP", "Laravel"],
-        }
-    },
-    contact: {
-        website: xbeast0.github.io/xbeast/,
-        email: xbeast331@proton.me,
-        instagram: 0x00007ff,
-        youtube: @XBEAST321,
-    },
-};
