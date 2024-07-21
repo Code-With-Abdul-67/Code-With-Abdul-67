@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm 0x-Cyber-Lunerr</h1>
 <h3 align="center">A passionate Developer, Ethical Hacker and OSINT Analyzer</h3>
 
-- 🔭 I’m currently working on **on PhpMyAdmin and MYSQL DB**
+- 🔭 I’m currently working on: **PhpMyAdmin and My SQL Database**
 
-- 🌱 I’m currently learning **PHP, MYSQL**
+- 🌱 I’m currently learning: **PHP, MYSQL**
 
-- 💬 Ask me about **Development**
+- 💬 I'm Interested in: **Development and Ethical Hacking**
 
-- 📫 How to reach me **codewithabdul67@gmail.com**
+- 📫 Mail me at: **codewithabdul67@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
