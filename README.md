@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0x-Cyber-Lunerr</h1>
-<h3 align="center">A passionate Developer, Ethical Hacker and OSINT Analyzer</h3>
+<h3 align="center">A passionate Developer, Ethical Hacker and a OSINT Analyzer</h3>
 
 - 🔭 I’m currently working on: **Mern Stack Development and Php with MySQL Database**
 
