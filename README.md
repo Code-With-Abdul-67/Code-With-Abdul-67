@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm 0x-Cyber-Lunerr</h1>
 <h3 align="center">A passionate Developer, Ethical Hacker and OSINT Analyzer</h3>
 
-- 🔭 I’m currently working on: **PhpMyAdmin and My SQL Database**
+- 🔭 I’m currently working on: **Mern Stack Development and Php with MySQL Database**
 
-- 🌱 I’m currently learning: **PHP, MYSQL**
+- 🌱 I’m currently learning: **PHP, MYSQL, Mern Stack Development** 
 
-- 💬 I'm Interested in: **Development and Ethical Hacking**
+- 💬 I'm Interested in: **Mern Stack Development and Ethical Hacking**
 
-- 📫 Mail me at: **codewithabdul67@gmail.com**
+- 📫 You can also Mail me at: **codewithabdul67@gmail.com**
 
 - 🔭 Check out my Portfolio https://code-with-abdul-67.github.io/Cyber-Lunerr-Portfolio/
 
