@@ -7,7 +7,7 @@
 
 - 💬 I'm Interested in: **Mern Stack Development and Ethical Hacking**
 
-- 📫 You can also Mail me at: **codewithabdul67@gmail.com**
+- 📫 You can also send me Mail at: **codewithabdul67@gmail.com**
 
 - 🔭 Check out my Portfolio https://code-with-abdul-67.github.io/Cyber-Lunerr-Portfolio/
 
