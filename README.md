@@ -9,9 +9,8 @@
 
 - 📫 You can also send me Mail at: **codewithabdul67@gmail.com**
 
-- 🔭 My Old Portfolio: https://cyber-lunerr-portfolio-2jsh.vercel.app/
+- 🔭 Check out My Portfolio: https://cyber-lunerr-portfolio-2jsh.vercel.app/
 
-- 📫 My New Portfolio: https://cyber-lunerr-88.vercel.app/
 
 
 <h3 align="left">Languages and Tools I am Interested in:</h3>
