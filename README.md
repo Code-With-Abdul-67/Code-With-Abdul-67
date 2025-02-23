@@ -7,7 +7,7 @@
 
 - 💬 I'm Interested in: **Mern Stack Development and Ethical Hacking**
 
-- 📫 You can also send me Mail at: **codewithabdul67@gmail.com**
+- 📫 You can also send me Mail at: **xlunerr76@gmail.com**
 
 - 🔭 Check out My Portfolio: https://code-with-abdul-2jsh.vercel.app/
 
