@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Code-With-Abdul</h1>
-<h3 align="center">A passionate Developer, Ethical Hacker and a OSINT Analyzer</h3>
+<h3 align="center">A passionate Full Stack Developer/h3>
 
-- 🔭 I’m currently working on: **Mern Stack Development and Php with MySQL Database**
+- 🔭 I’m currently working on: **Mern Stack Development and AI Integration**
 
-- 🌱 I’m currently learning: **PHP, MYSQL, Mern Stack Development** 
+- 🌱 I’m currently learning: **AI Integration** 
 
 - 💬 I'm Interested in: **Mern Stack Development and Ethical Hacking**
 
-- 📫 You can also send me Mail at: **xlunerr76@gmail.com**
+- 📫 You can also send me Mail at: **codewithabdul67@gmail.com**
 
 - 🔭 Check out My Portfolio: https://abdul-baseer.vercel.app/
 
